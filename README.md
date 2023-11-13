@@ -20,11 +20,12 @@ This is a small dataset for validation, the dataset is built in Voc format
 >train: 34 insulators with bounding box label  
 >val: 30 insualtors with instance segmentation label  
 
-The dataset is shared at [here (code:gya9)](https://pan.baidu.com/s/1hdkeafgj6mpnJcnPizxxeg)
+The dataset is shared at [InsulatorObj (code:gya9)](https://pan.baidu.com/s/1hdkeafgj6mpnJcnPizxxeg)
 ##Pretrained Weight
-The pretrained weight of insulator dataset is shared at [here (code: exjk)](https://pan.baidu.com/s/1eqmKtk7XW1z2As9mcJx8XA) 
-The pretrained weight of iSAID is shared at [here (code: w2fn)](https://pan.baidu.com/s/1Nj6Am4jO1lN8dsAiKHFBbg)  
-The generated psudo-label of iSAID, trained weight of SOLOv2 in MMDet and the trained weight of CondInst in AdelaiDet are shared at [here (code: e056)](https://pan.baidu.com/s/1wU9qCIIVaC8hkn62mzwm2A)
+The pretrained weight of insulator dataset is shared at [insu weight (code: exjk)](https://pan.baidu.com/s/1eqmKtk7XW1z2As9mcJx8XA) 
+The pretrained weight of iSAID is shared at [isaid weight (code: w2fn)](https://pan.baidu.com/s/1Nj6Am4jO1lN8dsAiKHFBbg)  
+The generated psudo-label of iSAID, trained weight of SOLOv2 in MMDet and the trained weight of CondInst in AdelaiDet are shared at [isaid train (code: e056)](https://pan.baidu.com/s/1wU9qCIIVaC8hkn62mzwm2A)
+The shared dataset or weight is also available at Release Panel ->>
 ##Insulator processing
 ###Train FSN
 Train Forground Segmentation Network based on the dataset.
